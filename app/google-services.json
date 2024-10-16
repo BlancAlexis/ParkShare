@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824374930925",
+    "project_id": "parkshare-638ef",
+    "storage_bucket": "parkshare-638ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824374930925:android:0acf9a920bbe9f13cacbe4",
+        "android_client_info": {
+          "package_name": "fr.meteochomage.parkshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWHWL-4fUZvzqxYKL28LLr-a8NuhWhTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
